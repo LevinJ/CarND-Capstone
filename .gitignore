@@ -2,5 +2,6 @@
 
 build
 devel
+simulator/
 
 profile.tmp
